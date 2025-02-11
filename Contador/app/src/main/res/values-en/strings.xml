@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClaseCinco</string>
+    <string name="texto_check">Enable edition</string>
+    <string name="btn_anadir">Add</string>
+</resources>

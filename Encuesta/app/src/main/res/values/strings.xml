@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConuntoUnoYDos</string>
+    <string name="encuesta">Encuesta</string>
+    <string name="preguntaUno">Si te apetece escribir algo, marca la siguiente casilla:</string>
+    <string name="txtNombre">¿Como te llamas?:</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="btnReset">Borrar</string>
+
+</resources>

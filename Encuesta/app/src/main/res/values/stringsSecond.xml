@@ -1,0 +1,4 @@
+<resources>
+        <string name="txtTitulo">Resultados de la Encuesta</string>
+        <string name="btnAtras">Volver</string>
+</resources>
